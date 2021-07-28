@@ -12,3 +12,5 @@ Chip-8 emulator, in order to run it we need:
 
 You can find the ROMs here:
 * https://www.zophar.net/pdroms/chip8/chip-8-games-pack.html
+
+ps: not tested on windows
