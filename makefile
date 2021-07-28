@@ -1,8 +1,4 @@
-# variables 
-
-# -I => add include directory of header files
 INCLUDES= -I ./include
-# -g => debug
 FLAGS= -g
 OBJECTS=./build/chip8memory.o ./build/chip8stack.o ./build/chip8keyboard.o ./build/chip8.o ./build/chip8screen.o ./build/toot.o
 
